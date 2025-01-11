@@ -1,0 +1,15 @@
+ *.h
+ *.c
+ *.fifo
+ *.a
+ *.db
+ *.log
+ *.sln
+ *.pdb
+ *.pid
+ *.sdf
+ *.suo
+ *.vsidx
+ *.vcxproj.user
+
+
