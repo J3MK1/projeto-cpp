@@ -5,6 +5,7 @@
  *.db
  *.log
  *.sln
+ *.obj
  *.pdb
  *.pid
  *.sdf
